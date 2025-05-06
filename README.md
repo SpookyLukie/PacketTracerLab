@@ -48,3 +48,5 @@ Validation of both DNS and inter-network connectivity as well as the Dynamic MAC
 <img src="https://i.imgur.com/BLl6Qcv.png" height="80%" width="80%" alt="Enforcing new Group Policy updates"/>
 <br />
 <br />
+
+<a href="https://github.com/SpookyLukie/PacketTracerLab/raw/refs/heads/main/Homelab-Sandbox-Network.pkt">Packet Tracer File</a> <br/>
